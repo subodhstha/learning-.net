@@ -11,6 +11,12 @@
             FirstName = firstName;
             LastName = lastName;
         }
+        public Employee(string userid, string firstName, string lastName)
+        {
+            userid = userid;
+            FirstName = firstName;
+            LastName = lastName;
+        }
 
         private string _fName;
         private string _lName;
