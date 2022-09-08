@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LearningCsharpBasic/1.0.0": {
+        "dependencies": {
+          "UserManagement": "1.0.0"
+        },
+        "runtime": {
+          "LearningCsharpBasic.dll": {}
+        }
+      },
+      "UserManagement/1.0.0": {
+        "runtime": {
+          "UserManagement.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LearningCsharpBasic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UserManagement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\learning-CSharp-and-.net\LearningCsharpBasic\Project2\bin\Debug\net6.0\Project2.exe
+D:\learning-CSharp-and-.net\LearningCsharpBasic\Project2\bin\Debug\net6.0\Project2.deps.json
+D:\learning-CSharp-and-.net\LearningCsharpBasic\Project2\bin\Debug\net6.0\Project2.runtimeconfig.json
+D:\learning-CSharp-and-.net\LearningCsharpBasic\Project2\bin\Debug\net6.0\Project2.dll
+D:\learning-CSharp-and-.net\LearningCsharpBasic\Project2\bin\Debug\net6.0\Project2.pdb
+D:\learning-CSharp-and-.net\LearningCsharpBasic\Project2\obj\Debug\net6.0\Project2.csproj.AssemblyReference.cache
+D:\learning-CSharp-and-.net\LearningCsharpBasic\Project2\obj\Debug\net6.0\Project2.GeneratedMSBuildEditorConfig.editorconfig
+D:\learning-CSharp-and-.net\LearningCsharpBasic\Project2\obj\Debug\net6.0\Project2.AssemblyInfoInputs.cache
+D:\learning-CSharp-and-.net\LearningCsharpBasic\Project2\obj\Debug\net6.0\Project2.AssemblyInfo.cs
+D:\learning-CSharp-and-.net\LearningCsharpBasic\Project2\obj\Debug\net6.0\Project2.csproj.CoreCompileInputs.cache
+D:\learning-CSharp-and-.net\LearningCsharpBasic\Project2\obj\Debug\net6.0\Project2.dll
+D:\learning-CSharp-and-.net\LearningCsharpBasic\Project2\obj\Debug\net6.0\refint\Project2.dll
+D:\learning-CSharp-and-.net\LearningCsharpBasic\Project2\obj\Debug\net6.0\Project2.pdb
+D:\learning-CSharp-and-.net\LearningCsharpBasic\Project2\obj\Debug\net6.0\Project2.genruntimeconfig.cache
+D:\learning-CSharp-and-.net\LearningCsharpBasic\Project2\obj\Debug\net6.0\ref\Project2.dll
