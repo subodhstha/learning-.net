@@ -35,6 +35,8 @@
             this.txtLastName = new System.Windows.Forms.TextBox();
             this.btnSave = new System.Windows.Forms.Button();
             this.btnCancel = new System.Windows.Forms.Button();
+            this.panel1 = new System.Windows.Forms.Panel();
+            this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
             // btnName
@@ -50,7 +52,7 @@
             // lblFirstName
             // 
             this.lblFirstName.AutoSize = true;
-            this.lblFirstName.Location = new System.Drawing.Point(153, 115);
+            this.lblFirstName.Location = new System.Drawing.Point(17, 14);
             this.lblFirstName.Name = "lblFirstName";
             this.lblFirstName.Size = new System.Drawing.Size(64, 15);
             this.lblFirstName.TabIndex = 1;
@@ -59,7 +61,7 @@
             // lblLastName
             // 
             this.lblLastName.AutoSize = true;
-            this.lblLastName.Location = new System.Drawing.Point(153, 139);
+            this.lblLastName.Location = new System.Drawing.Point(17, 38);
             this.lblLastName.Name = "lblLastName";
             this.lblLastName.Size = new System.Drawing.Size(63, 15);
             this.lblLastName.TabIndex = 2;
@@ -67,21 +69,21 @@
             // 
             // txtFirstName
             // 
-            this.txtFirstName.Location = new System.Drawing.Point(223, 115);
+            this.txtFirstName.Location = new System.Drawing.Point(87, 14);
             this.txtFirstName.Name = "txtFirstName";
             this.txtFirstName.Size = new System.Drawing.Size(172, 23);
             this.txtFirstName.TabIndex = 3;
             // 
             // txtLastName
             // 
-            this.txtLastName.Location = new System.Drawing.Point(222, 139);
+            this.txtLastName.Location = new System.Drawing.Point(86, 38);
             this.txtLastName.Name = "txtLastName";
             this.txtLastName.Size = new System.Drawing.Size(172, 23);
             this.txtLastName.TabIndex = 4;
             // 
             // btnSave
             // 
-            this.btnSave.Location = new System.Drawing.Point(222, 168);
+            this.btnSave.Location = new System.Drawing.Point(86, 67);
             this.btnSave.Name = "btnSave";
             this.btnSave.Size = new System.Drawing.Size(75, 23);
             this.btnSave.TabIndex = 5;
@@ -91,7 +93,7 @@
             // 
             // btnCancel
             // 
-            this.btnCancel.Location = new System.Drawing.Point(319, 168);
+            this.btnCancel.Location = new System.Drawing.Point(183, 67);
             this.btnCancel.Name = "btnCancel";
             this.btnCancel.Size = new System.Drawing.Size(75, 23);
             this.btnCancel.TabIndex = 6;
@@ -99,22 +101,31 @@
             this.btnCancel.UseVisualStyleBackColor = true;
             this.btnCancel.Click += new System.EventHandler(this.btnCancel_Click);
             // 
+            // panel1
+            // 
+            this.panel1.Controls.Add(this.txtLastName);
+            this.panel1.Controls.Add(this.btnCancel);
+            this.panel1.Controls.Add(this.lblFirstName);
+            this.panel1.Controls.Add(this.btnSave);
+            this.panel1.Controls.Add(this.lblLastName);
+            this.panel1.Controls.Add(this.txtFirstName);
+            this.panel1.Location = new System.Drawing.Point(95, 68);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(286, 127);
+            this.panel1.TabIndex = 7;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.btnCancel);
-            this.Controls.Add(this.btnSave);
-            this.Controls.Add(this.txtLastName);
-            this.Controls.Add(this.txtFirstName);
-            this.Controls.Add(this.lblLastName);
-            this.Controls.Add(this.lblFirstName);
+            this.ClientSize = new System.Drawing.Size(722, 311);
+            this.Controls.Add(this.panel1);
             this.Controls.Add(this.btnName);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.panel1.ResumeLayout(false);
+            this.panel1.PerformLayout();
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 
@@ -127,5 +138,6 @@
         private TextBox txtLastName;
         private Button btnSave;
         private Button btnCancel;
+        private Panel panel1;
     }
 }

@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp1", "WinFormsApp1\WinFormsApp1.csproj", "{FCE87B4B-8D28-4AE1-8A48-F657E13B67FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp1", "WinFormsApp1\WinFormsApp1.csproj", "{FCE87B4B-8D28-4AE1-8A48-F657E13B67FA}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LearningCsharpBasic", "..\LearningCsharpBasic\LearningCsharpBasic.csproj", "{7E022C60-D197-46DE-9A34-0772E68EF753}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project2", "..\Project2\Project2.csproj", "{46D6E0C3-2DAD-4259-8DE6-C75ED481B858}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserManagement", "..\UserManagement\UserManagement.csproj", "{3EDF794D-8FAA-4D67-B9CB-69C34F53C9B6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataLayer", "..\DataLayer\DataLayer.csproj", "{8897AF55-3998-4F87-84E5-E4D30D8D8F71}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{3EDF794D-8FAA-4D67-B9CB-69C34F53C9B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3EDF794D-8FAA-4D67-B9CB-69C34F53C9B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3EDF794D-8FAA-4D67-B9CB-69C34F53C9B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8897AF55-3998-4F87-84E5-E4D30D8D8F71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8897AF55-3998-4F87-84E5-E4D30D8D8F71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8897AF55-3998-4F87-84E5-E4D30D8D8F71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8897AF55-3998-4F87-84E5-E4D30D8D8F71}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

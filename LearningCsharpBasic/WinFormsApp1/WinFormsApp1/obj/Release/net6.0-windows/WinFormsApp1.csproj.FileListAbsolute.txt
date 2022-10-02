@@ -18,3 +18,13 @@ D:\learning-CSharp-and-.net\LearningCsharpBasic\WinFormsApp1\WinFormsApp1\obj\Re
 D:\learning-CSharp-and-.net\LearningCsharpBasic\WinFormsApp1\WinFormsApp1\obj\Release\net6.0-windows\WinFormsApp1.pdb
 D:\learning-CSharp-and-.net\LearningCsharpBasic\WinFormsApp1\WinFormsApp1\obj\Release\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
 D:\learning-CSharp-and-.net\LearningCsharpBasic\WinFormsApp1\WinFormsApp1\obj\Release\net6.0-windows\ref\WinFormsApp1.dll
+D:\learning-CSharp-and-.net\LearningCsharpBasic\WinFormsApp1\WinFormsApp1\bin\Release\net6.0-windows\System.Data.SqlClient.dll
+D:\learning-CSharp-and-.net\LearningCsharpBasic\WinFormsApp1\WinFormsApp1\bin\Release\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\learning-CSharp-and-.net\LearningCsharpBasic\WinFormsApp1\WinFormsApp1\bin\Release\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\learning-CSharp-and-.net\LearningCsharpBasic\WinFormsApp1\WinFormsApp1\bin\Release\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\learning-CSharp-and-.net\LearningCsharpBasic\WinFormsApp1\WinFormsApp1\bin\Release\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\learning-CSharp-and-.net\LearningCsharpBasic\WinFormsApp1\WinFormsApp1\bin\Release\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\learning-CSharp-and-.net\LearningCsharpBasic\WinFormsApp1\WinFormsApp1\bin\Release\net6.0-windows\DataLayer.dll
+D:\learning-CSharp-and-.net\LearningCsharpBasic\WinFormsApp1\WinFormsApp1\bin\Release\net6.0-windows\DataLayer.pdb
+D:\learning-CSharp-and-.net\LearningCsharpBasic\WinFormsApp1\WinFormsApp1\bin\Release\net6.0-windows\WinFormsApp1.dll.config
+D:\learning-CSharp-and-.net\LearningCsharpBasic\WinFormsApp1\WinFormsApp1\bin\Release\net6.0-windows\System.Configuration.ConfigurationManager.dll

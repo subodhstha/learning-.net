@@ -4,6 +4,75 @@
     "D:\\learning-CSharp-and-.net\\LearningCsharpBasic\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj": {}
   },
   "projects": {
+    "D:\\learning-CSharp-and-.net\\LearningCsharpBasic\\DataLayer\\DataLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\learning-CSharp-and-.net\\LearningCsharpBasic\\DataLayer\\DataLayer.csproj",
+        "projectName": "DataLayer",
+        "projectPath": "D:\\learning-CSharp-and-.net\\LearningCsharpBasic\\DataLayer\\DataLayer.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\learning-CSharp-and-.net\\LearningCsharpBasic\\DataLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\learning-CSharp-and-.net\\LearningCsharpBasic\\UserManagement\\UserManagement.csproj": {
+                "projectPath": "D:\\learning-CSharp-and-.net\\LearningCsharpBasic\\UserManagement\\UserManagement.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "D:\\learning-CSharp-and-.net\\LearningCsharpBasic\\UserManagement\\UserManagement.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -55,7 +124,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -83,6 +152,9 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
+              "D:\\learning-CSharp-and-.net\\LearningCsharpBasic\\DataLayer\\DataLayer.csproj": {
+                "projectPath": "D:\\learning-CSharp-and-.net\\LearningCsharpBasic\\DataLayer\\DataLayer.csproj"
+              },
               "D:\\learning-CSharp-and-.net\\LearningCsharpBasic\\UserManagement\\UserManagement.csproj": {
                 "projectPath": "D:\\learning-CSharp-and-.net\\LearningCsharpBasic\\UserManagement\\UserManagement.csproj"
               }
@@ -117,7 +189,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

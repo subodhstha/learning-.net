@@ -1,0 +1,12 @@
+D:\learning-CSharp-and-.net\LearningCsharpBasic\DataLayer\bin\Debug\net6.0\DataLayer.deps.json
+D:\learning-CSharp-and-.net\LearningCsharpBasic\DataLayer\bin\Debug\net6.0\DataLayer.dll
+D:\learning-CSharp-and-.net\LearningCsharpBasic\DataLayer\bin\Debug\net6.0\DataLayer.pdb
+D:\learning-CSharp-and-.net\LearningCsharpBasic\DataLayer\obj\Debug\net6.0\DataLayer.csproj.AssemblyReference.cache
+D:\learning-CSharp-and-.net\LearningCsharpBasic\DataLayer\obj\Debug\net6.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\learning-CSharp-and-.net\LearningCsharpBasic\DataLayer\obj\Debug\net6.0\DataLayer.AssemblyInfoInputs.cache
+D:\learning-CSharp-and-.net\LearningCsharpBasic\DataLayer\obj\Debug\net6.0\DataLayer.AssemblyInfo.cs
+D:\learning-CSharp-and-.net\LearningCsharpBasic\DataLayer\obj\Debug\net6.0\DataLayer.csproj.CoreCompileInputs.cache
+D:\learning-CSharp-and-.net\LearningCsharpBasic\DataLayer\obj\Debug\net6.0\DataLayer.dll
+D:\learning-CSharp-and-.net\LearningCsharpBasic\DataLayer\obj\Debug\net6.0\refint\DataLayer.dll
+D:\learning-CSharp-and-.net\LearningCsharpBasic\DataLayer\obj\Debug\net6.0\DataLayer.pdb
+D:\learning-CSharp-and-.net\LearningCsharpBasic\DataLayer\obj\Debug\net6.0\ref\DataLayer.dll

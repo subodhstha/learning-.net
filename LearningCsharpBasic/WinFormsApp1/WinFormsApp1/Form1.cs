@@ -1,5 +1,6 @@
 using System.IO;
 using UserManagement;
+using DataLayer;
 
 namespace WinFormsApp1
 {
@@ -29,9 +30,16 @@ namespace WinFormsApp1
             //File.WriteAllText("OurlEmpData.txt", "First Name = " + objEmp.FirstName + " " + "Last Name = " + objEmp.LastName);
             string strFileName = "OurlEmpData1.txt";
             string strDataForFile = "First Name = " + objEmp.FirstName + " " + "Last Name = " + objEmp.LastName;
-            FileManagement objFileManager = new FileManagement();
-            objFileManager.SaveFile(strFileName, strDataForFile);
-            MessageBox.Show("A file is stored in the BinFolder");
+            
+            //FileManagement objFileManager = new FileManagement();
+            //objFileManager.SaveFile(strFileName, strDataForFile)
+            //MessageBox.Show("A file is stored in the BinFolder");
+
+            EmployeeDataProvider objData = new EmployeeDataProvider();
+            //objData.AddEmp(objEmp.FirstName, objEmp.LastName);
+            //objData.AddEmp(objEmp);
+            objData.AddEmpBySP(objEmp);
+            MessageBox.Show("A file is stored in Database");
         }
 
         private void btnCancel_Click(object sender, EventArgs e)
