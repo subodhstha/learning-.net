@@ -1,0 +1,7 @@
+D:\learning-CSharp-and-.net\obj\Debug\net6.0\learning-CSharp-and-.net.csproj.AssemblyReference.cache
+D:\learning-CSharp-and-.net\obj\Debug\net6.0\WinFormsApp1.Form1.resources
+D:\learning-CSharp-and-.net\obj\Debug\net6.0\learning-CSharp-and-.net.csproj.GenerateResource.cache
+D:\learning-CSharp-and-.net\obj\Debug\net6.0\learning-CSharp-and-.net.GeneratedMSBuildEditorConfig.editorconfig
+D:\learning-CSharp-and-.net\obj\Debug\net6.0\learning-CSharp-and-.net.AssemblyInfoInputs.cache
+D:\learning-CSharp-and-.net\obj\Debug\net6.0\learning-CSharp-and-.net.AssemblyInfo.cs
+D:\learning-CSharp-and-.net\obj\Debug\net6.0\learning-CSharp-and-.net.csproj.CoreCompileInputs.cache
