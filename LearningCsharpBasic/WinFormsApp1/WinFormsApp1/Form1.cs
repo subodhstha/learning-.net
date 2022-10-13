@@ -2,6 +2,8 @@ using System.IO;
 using UserManagement;
 using DataLayer;
 using System.Data;
+using LogicLayer.SQLHelper;
+using DataLayer.SQLDataProvider;
 
 namespace WinFormsApp1
 {
@@ -41,9 +43,11 @@ namespace WinFormsApp1
             EmployeeDataProvider objData = new EmployeeDataProvider();
             //objData.AddEmp(objEmp.FirstName, objEmp.LastName);
             //objData.AddEmp(objEmp);
+            EmpDataProvider objEmpData = new EmpDataProvider();
             if (userID == 0)
             {
-                objData.AddEmpBySP(objEmp);
+                //objData.AddEmpBySP(objEmp);
+               objEmpData.AddEmp(objEmp);
             }
             else
             {
@@ -103,6 +107,19 @@ namespace WinFormsApp1
                 //    txtLastName.Text = dr[2].ToString();
                 //}
             }
+        }
+
+        private void toolStripMenuItem2_Click(object sender, EventArgs e)
+        {
+            ManageEmp objEmp = new ManageEmp();
+            objEmp.ShowDialog();
+        }
+
+        private void copyToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("This is message", "This is Caption", MessageBoxButtons.OKCancel, MessageBoxIcon.Warning);
+            //var objResult = MessageBox.Show("This is message", "This is Caption", MessageBoxButtons.OKCancel, MessageBoxIcon.Warning);
+            //var value = objResult;
         }
 
         //private void dataGridView1_CellLeave(object sender, DataGridViewCellEventArgs e)

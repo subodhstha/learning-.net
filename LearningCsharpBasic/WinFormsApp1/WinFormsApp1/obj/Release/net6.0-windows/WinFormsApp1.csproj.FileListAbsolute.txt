@@ -28,3 +28,5 @@ D:\learning-CSharp-and-.net\LearningCsharpBasic\WinFormsApp1\WinFormsApp1\bin\Re
 D:\learning-CSharp-and-.net\LearningCsharpBasic\WinFormsApp1\WinFormsApp1\bin\Release\net6.0-windows\DataLayer.pdb
 D:\learning-CSharp-and-.net\LearningCsharpBasic\WinFormsApp1\WinFormsApp1\bin\Release\net6.0-windows\WinFormsApp1.dll.config
 D:\learning-CSharp-and-.net\LearningCsharpBasic\WinFormsApp1\WinFormsApp1\bin\Release\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\learning-CSharp-and-.net\LearningCsharpBasic\WinFormsApp1\WinFormsApp1\obj\Release\net6.0-windows\WinFormsApp1.ManageEmp.resources
+D:\learning-CSharp-and-.net\LearningCsharpBasic\WinFormsApp1\WinFormsApp1\obj\Release\net6.0-windows\WinFormsApp1.Properties.Resources.resources
